@@ -1,0 +1,29 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item{
+    color: #ffff;
+}
+
+.nav-item:hover{
+    color: #ffff;
+    text-decoration: none;
+}
+
+
+.collapse{
+    justify-content: center;              
+}
+
+.main-nav{
+    background-color: #2E43F0!important;
+}
+.get-start-btn{
+    background-color: orange !important;
+    color: #ffff !important;
+    border: none;
+}
+
+.active{
+    border-bottom: 1px solid #ffff;
+}

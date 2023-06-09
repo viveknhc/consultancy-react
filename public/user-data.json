@@ -1,0 +1,22 @@
+ [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "placeaddress": "123 Main St, Anytown, USA"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "phone": "987-654-3210",
+        "placeaddress": "456 Elm St, Somecity, USA"
+      },
+      {
+        "id": 3,
+        "name": "Michael Johnson",
+        "phone": "555-123-4567",
+        "placeaddress": "789 Oak St, Anotherplace, USA"
+      }
+    ]
+
+  
